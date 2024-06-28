@@ -1,0 +1,17 @@
+{
+    "name": "cpumemory-zhtw",
+    "version": "0.0.1",
+    "description": "本文解釋用於現代電腦硬體的記憶體子系統的結構、闡述 CPU 快取發展的考量、它們如何運作，以及程式該如何針對記憶體操作調整，從而達到最佳的效能。",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gitbook": "^3.2.3",
+        "gitbook-cli": "^2.3.2",
+        "gitbook-plugin-github-buttons": "3.0.0",
+        "gitbook-plugin-github-issue-feedback": "1.4.0",
+        "gitbook-plugin-katex": "1.1.4",
+        "gitbook-plugin-search-pro": "2.0.2",
+        "graceful-fs": "^4.2.11"
+    }
+}
